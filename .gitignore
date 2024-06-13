@@ -1,0 +1,54 @@
+# macOS
+.DS_Store
+
+# Windows (just in case)
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# Vim
+*.swp
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+*.atom/
+
+# JetBrains IDEs (e.g., WebStorm, IntelliJ)
+.idea/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Logs
+logs/
+*.log
+
+# Secrets (although not typical for HTML/CSS-only projects, just in case)
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+secrets/
+
+
+
+#More
+
+*.txt
+*.pdf
+*.json
+*.vscode
+*.swp
+*.gitattributes
