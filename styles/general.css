@@ -11,3 +11,13 @@ p {
     padding-right: 24px;
     background-color: rgb(248,248,248);
   }
+
+  a:link, a:visited {
+    color: black; 
+    text-decoration: none; 
+}
+
+a:hover, a:active {
+    color: black; 
+    text-decoration: none; 
+}
