@@ -1,8 +1,16 @@
+.container{
+
+    display: flex;
+
+}
+
 .box{
 
     width: 150px;
     height: 150px;
-
+    font-size: 8em;
+    text-align: center;
+    border-radius: 15px;    
 
 }
 
